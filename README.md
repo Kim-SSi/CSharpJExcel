@@ -2,6 +2,7 @@
 A Git repository containing a copy of the C# port of the JExcelApi java library.
 
 This port is based on jexcelapi version 2.6.12.
+<https://sourceforge.net/projects/jexcelapi/>
 
 - - -
 # Original Java index.htm
